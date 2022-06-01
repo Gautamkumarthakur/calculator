@@ -1,0 +1,21 @@
+.container{
+     text-align: center;
+     margin-top:23px
+}
+table{
+    margin: auto;
+}
+
+input{
+    border-radius: 15px;
+    border: spx solid #244624;
+    font-size:34px;
+}
+button{
+    border-radius: 15px;
+    font-size: 25px;
+    background: red;
+    width:75px;
+    height:55px;
+
+}
